@@ -3,23 +3,28 @@ Archivos EFI para el correcto funcionamiento de Big Sur 11.1
 La configuración es para uso con GPU externa.
 
 # Especificaciones
-CPU: Intel Core i9-10900F
-GPU: Sapphire Pulse RX 590
-Audio: Realtek® ALC1200-VD1
-Ethernet: Realtek® RTL8125B-CG 2.5G LAN Controller
+<ul>
+<li>CPU: Intel Core i9-10900F</li>
+<li>GPU: Sapphire Pulse RX 590</li>
+<li>Audio: Realtek® ALC1200-VD1</li>
+<li>Ethernet: Realtek® RTL8125B-CG 2.5G LAN</li>
+</ul>
 
 # Versión
 Open Core 0.6.4
 
 # Funcionando
-Audio
-Microfono
-Ethernet - No funcionara durante la instalación, deberas finalizarla y después ir a:
-Preferencias del sistema/ Red/ Ethernet/ Avanzado/ Hardware/
-Configurar Manualmente
-100BaseT / Dúplex / Estándard 1500
-Gestión de energía de CPU - El equipo puede dormir y despertar de manera correcta.
-Puertos USB
+<ul class="contains-task-list">
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Audio</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Microfono</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Ethernet - No funcionara durante la instalación, deberas finalizarla y después ir a:</li>
+	<span>Preferencias del sistema/ Red/ Ethernet/ Avanzado/ Hardware/</span>
+	<span>Configurar Manualmente</span> </br>
+	<span>100BaseT / Dúplex / Estándard 1500</span>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Gestión de energía de CPU - El equipo puede dormir y despertar de manera correcta.</li>
+	<span></span>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Puertos USB</li>
+</ul>
 
 # SMBIOS
 iMac20,1
