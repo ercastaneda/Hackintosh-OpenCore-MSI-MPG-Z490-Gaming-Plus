@@ -16,8 +16,8 @@ Open Core 0.6.4
 # Funcionando
 <ul class="contains-task-list">
 <li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Audio</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Microfono</li>
-<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Ethernet - No funcionara durante la instalación, deberas finalizarla y después ir a:</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Micrófono</li>
+<li class="task-list-item"><input type="checkbox" id="" disabled="" class="task-list-item-checkbox" checked=""> Ethernet -  No funcionará durante la instalación, deberás finalizar y después ir a:</li>
 	<span>Preferencias del sistema/ Red/ Ethernet/ Avanzado/ Hardware/</span>
 	<span>Configurar Manualmente</span> </br>
 	<span>100BaseT / Dúplex / Estándard 1500</span>
@@ -27,4 +27,4 @@ Open Core 0.6.4
 </ul>
 
 # SMBIOS
-iMac20,1
+iMac20,2
