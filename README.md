@@ -1,6 +1,7 @@
 # Hackintosh-OpenCore-MSI-MPG-Z490-Gaming-Plus
-Archivos EFI para el correcto funcionamiento de Big Sur 11.1
-La configuración es para uso con GPU externa.
+Archivos EFI para el correcto funcionamiento de Big Sur 11.1 </br>
+La configuración es para uso con GPU externa.</br>
+No olvides colocar los datos de SystemUUID, Número de serial, MlB.
 
 # Especificaciones
 <ul>
